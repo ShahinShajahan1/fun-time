@@ -40,6 +40,7 @@ body {
   width: auto !important;
   width:70vw;
   border-radius: 20px;
+  padding: 20px;
   justify-content: space-between;
   border: 1px solid rgba(255, 255, 255, .25);
   border-radius: 20px;
@@ -109,7 +110,7 @@ p{
   margin-bottom: 30px;
   font-weight: 900;
   font-size: 1.8rem;
-  color: #00a056;
+  color: #00d672;
   letter-spacing: 1px;
 
 }
