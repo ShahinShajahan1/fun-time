@@ -18,15 +18,12 @@ p:not(:last-child) {
 
 body {
   font: 1em/1.618 Inter, sans-serif;
-
   display: flex;
   align-items: center;
   justify-content: center;
-  
   min-height: 100vh;
   padding: 30px;
   margin: 0;
-  
   color: #224;
   background:
     url(./bgimage.jpg)
@@ -37,6 +34,10 @@ body {
   position: relative;
   display:block;
   overflow: auto;
+  width: 60vw;
+  min-width:60vw;
+  width: auto !important;
+  width:60vw;
   border-radius: 20px;
   padding: 50px;
   justify-content: space-between;
